@@ -1,0 +1,15 @@
+console.log("My name is Esmeralda Lightwood");
+var name1 = "Esmeralda ";
+var name2 = "Lightwood" ;
+var full= name1.concat(name2);
+console.log(full);
+var no1= 2;
+var no2= 22;
+var add= no1+no2;
+var sub= no1-no2;
+var multi= no1*no2;
+var divide= no1/no2;
+console.log(add);
+console.log(sub);
+console.log(multi);
+console.log(divide);
